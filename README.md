@@ -1,4 +1,4 @@
-# Kittid
+# kittid
 
 ![Kittid Logo](https://github.com/mobesa/kittid/blob/main/116770288_padded_logo.png)
 
